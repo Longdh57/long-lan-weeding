@@ -6,6 +6,11 @@ html {
     height: 100%;
 }
 
+@font-face {
+    font-family: DancingScript;
+    src: url(src/assets/font/Dancing_Script/static/DancingScript-SemiBold.ttf);
+}
+
 //- Custom horizontal rules
 
 hr.divider {
